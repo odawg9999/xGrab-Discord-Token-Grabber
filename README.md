@@ -14,7 +14,7 @@ Example output of the tool:
 
 ![alt text](https://i.imgur.com/8pRQxlp.png)
 
-Compiler flags:
+C/C++ Flags (Visual Studio):
 /permissive- /ifcOutput "Release\" /GS- /analyze- /W3 /Gy /Zc:wchar_t /Zi /Gm- /O1 /sdl- /Fd"Release\vc142.pdb" /Zc:inline /fp:precise /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_UNICODE" /D "UNICODE" /errorReport:prompt /WX- /Zc:forScope /Gd /Oy- /MT /FC /Fa"Release\" /EHsc /nologo /Fo"Release\" /Os /Fp"Release\TokenGrabber.pch" /diagnostics:column /Gs100000000 /utf-8 /arch:SSE 
 
 Linker flags:
