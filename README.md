@@ -6,7 +6,7 @@ PoC for grabbing Discord tokens. File works on Windows XP-10, having no dependen
 Token is delivered via Discord webhook (but can easily be changed to custom web panels for example).
 Executable is non-resident and will remove itself after searching and transfering data. If the internet connection fails, the executable will try to connect 2 more times over the next 10 minutes before it removes itself. The executable uses Anti-Debug and Anti-VM techniques. Real-world malware would use encrypted strings, however, this is not the point of this project.
 
-Demonstration video:
+Demonstration video: https://www.youtube.com/watch?v=MbF7JA2nArE
 
 How to use a token to log into an account: https://www.youtube.com/watch?v=FmXMGCRpw50
 
