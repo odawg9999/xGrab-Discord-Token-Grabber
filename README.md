@@ -1,6 +1,6 @@
 # xGrab - Discord Token Grabber
 
-Important: This is meant to be a PoC (proof of concept) and to make aware of this issue since I consider it as a vulnerability (although Discord seems to have a different opinion). You're not allowed to modify this code for real world usage. You may use it if you want to recover your own account.
+Important: This is meant to be a PoC (proof of concept) and to spread awareness of this issue since I consider it as a vulnerability (although Discord seems to have a different opinion). You're not allowed to modify this code for real world usage. You may use it if you want to recover your own account.
 
 PoC for grabbing Discord tokens. File works on Windows XP-10, having no dependencies except the OS itself. Written in C using pure WinAPI (no C runtime library) - Filesize: ~11kb; Format: Win32 PE.
 Token is delivered via Discord webhook (but can easily be changed to custom web panels for example).
